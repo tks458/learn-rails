@@ -1,0 +1,71 @@
+[33mcommit 26c3d7064a648349342ef03545c10572d27cc2b4[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Thu May 1 17:21:52 2014 -0700
+
+    sending email
+
+[33mcommit 9687052c4a4e185c6d3b4c3644a3842c1a39d057[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Thu May 1 16:51:22 2014 -0700
+
+    save data to spreadsheet
+
+[33mcommit d72f2f353f42fdf22d2d5761af34e9004209d86d[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Wed Apr 30 22:09:59 2014 -0700
+
+    contact form
+
+[33mcommit 2168e53c2075a3b4b17daaa73fa8834616ae96db[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Wed Apr 30 18:46:26 2014 -0700
+
+    add 'about' and 'contact' pages
+
+[33mcommit 124358c8724e4c9ec7577812d5133b0e553418a9[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Wed Apr 30 17:49:53 2014 -0700
+
+    front-end framework
+
+[33mcommit 95c4c13da3e8b64225a662905a749924ba0f5e51[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Tue Apr 29 20:20:57 2014 -0700
+
+    update applicatin layout
+
+[33mcommit e0f0e89fa301907ff89012382dbefb337ab5ab76[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Wed Apr 23 19:29:13 2014 -0700
+
+    dynamic home page
+
+[33mcommit b2edd7b75ca947c872832ed657ffef9bda705bad[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Tue Apr 22 19:59:01 2014 -0700
+
+    update application.yml
+
+[33mcommit bd854c628037f41a07dc98a11b32975559cd529e[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Tue Apr 22 19:02:04 2014 -0700
+
+    add configuration
+
+[33mcommit 5aad6b0c11094c44099ea25ca316345149c25f7c[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Mon Apr 21 19:59:28 2014 -0700
+
+    add gems
+
+[33mcommit 8f5f425b1b0a22d35944e8a8d06f53bec40cc9dd[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Mon Apr 21 18:46:21 2014 -0700
+
+    update README
+
+[33mcommit 7602945403261f7314afe8003203c4d29c2cc495[m
+Author: Thomas Schweiger <tks458@gmail.com>
+Date:   Sun Apr 20 17:59:24 2014 -0700
+
+    Initial commit
